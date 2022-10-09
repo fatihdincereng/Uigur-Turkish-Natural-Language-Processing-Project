@@ -1,5 +1,5 @@
 # Uigur-Turkish-Natural-Language-Processing-Project
-Uygurcadan Türkçeye Çeviri Yapan Doğal Dil İşleme Projesi
+Natural Language Processing Project Translating from Uyghur to Turkish
 >Uludag University Design Report Course Project
 
 >Python-Keras-NLP 
